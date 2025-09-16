@@ -1,6 +1,6 @@
 
 // CONTOH 1
-/*#include <iostream> 
+#include <iostream> 
 using namespace std; //wajib ada titikkoma dibelakang, agar tdk menyebabkan error 
                     // jadi using namespace std; ini berfungsi agar kita tidak 
                     //selalu menulis std ketika ingin menampilkan output
@@ -8,11 +8,11 @@ int main(){ //menu utama dalam cpp
     cout<<"Hello World!"<<endl;      //end1 ini berfungsi enter. 
                                     // cout berfungsi untuk menampilkan output
     return 0; 
-} */
+} 
 
 
 // CONTOH 2
-/*#include <iostream>
+#include <iostream>
 #include <conio.h> //digunkan untuk getch
 using namespace std; // biar nggak nulis ulang std wktu mau print out 
 
@@ -33,7 +33,7 @@ int main(){
     return 0; 
 
     // untuk alamat dan px setiap orang akan berbeda2 karena tergantung laptop masing - masing
-}*/
+}
 
 // CONTOH 3
 #include <iostream>
